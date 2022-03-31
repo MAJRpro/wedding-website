@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("Visit https://wedding.rampatra.com !");
+    console.log("M&M Wedding 2022 !");
 };
